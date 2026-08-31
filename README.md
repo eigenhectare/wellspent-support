@@ -1,3 +1,8 @@
 # WellSpent Support
 
-Public support and privacy pages for [WellSpent](https://github.com/drew-reilly-py/WellSpent).
+This repository is no longer used for hosting.
+
+Current public resources:
+
+- Support: https://wellspent-holdings.github.io/support/
+- Privacy Policy: https://wellspent-holdings.github.io/privacy/

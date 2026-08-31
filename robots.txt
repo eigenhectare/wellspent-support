@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://drew-reilly-py.github.io/wellspent-support/sitemap.xml
